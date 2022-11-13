@@ -1,0 +1,35 @@
+button{
+    background-color: rgb(174, 174, 245);
+    padding: 5px 10px;
+    border-color:transparent;
+    font-size: 20px;
+    cursor: pointer;
+    transition: 1;
+}
+
+button:hover{
+    background-color: rgb(223, 223, 239);
+}
+
+#rowNumber{
+    height: 24px;
+    padding: 5px 10px;
+}
+
+table{
+    width: 500px;
+    margin: 10px;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+tr{
+    border-bottom: 1px solid black;
+    padding: 2px;
+}
+
+td{
+    border-right: 1px solid black;
+    padding: 5px;
+}
+
